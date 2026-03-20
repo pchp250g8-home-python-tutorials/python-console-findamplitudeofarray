@@ -1,4 +1,4 @@
-FindAmplitudeOfArray. Python Tutorials. Simple Input/Output. Arrays. Algorithms. Console Application. 
+FindAmplitudeOfArray. Python Tutorials. Simple Input/Output. Arrays. Algorithms. Console Application.
 A console application in the Python programming language. 
 The program does the following:
    1. Prompts the user for the number of elements in the array.
